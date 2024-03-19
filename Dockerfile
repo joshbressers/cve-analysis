@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM debian:12
 
 MAINTAINER Josh Bressers "josh@bress.net"
 
