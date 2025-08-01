@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM debian:bullseye
 
 MAINTAINER Josh Bressers "josh@bress.net"
 
